@@ -1,6 +1,6 @@
 # 🏭 Xperiun Metalúrgica | Industrial Operations Analytics
 
-> **Business Intelligence solution focused on industrial production, bottleneck identification, rework cost analysis, and true ROI optimization for a metallurgical plant.
+> **Business Intelligence solution focused on industrial production, bottleneck identification, rework cost analysis, and true ROI optimization for a metallurgical plant.**
 
 ## 📌 Contexto e Objetivos (Business Problem)
 
@@ -12,10 +12,10 @@ O objetivo central foi mapear os principais indicadores operacionais e financeir
 
 O projeto unificou a visão de chão de fábrica com a visão executiva através de:
 
-1. **ETL e Tratamento (Power Query): Limpeza de dados operacionais brutos, padronização de registos de falhas e estruturação de bases históricas para análise.
-2. **Modelagem de Dados: Arquitetura dimensional (Star Schema) otimizada para cruzar informações de pedidos, materiais, setores e tempo.
-3. **Cálculos Avançados (DAX): Criação de métricas de alta complexidade, como Custo de Retrabalho, Tempo Médio por Setor e o Cálculo do ROI Real (expurgando distorções geradas por ineficiências).
-4. **UI/UX Design: Desenvolvimento de interface interativa no Figma, permitindo drill-downs intuitivos desde a visão consolidada até ao nível de detalhe do material.
+1. **ETL e Tratamento (Power Query):** Limpeza de dados operacionais brutos, padronização de registos de falhas e estruturação de bases históricas para análise.
+2. **Modelagem de Dados:** Arquitetura dimensional (Star Schema) otimizada para cruzar informações de pedidos, materiais, setores e tempo.
+3. **Cálculos Avançados (DAX):** Criação de métricas de alta complexidade, como Custo de Retrabalho, Tempo Médio por Setor e o Cálculo do ROI Real (expurgando distorções geradas por ineficiências).
+4. **UI/UX Design:** Desenvolvimento de interface interativa no Figma, permitindo drill-downs intuitivos desde a visão consolidada até ao nível de detalhe do material.
 
 ## 📊 Destaques Visuais (Dashboard Previews)
 
@@ -28,9 +28,9 @@ O projeto unificou a visão de chão de fábrica com a visão executiva através
 
 ##💡 Principais Insights Gerados (Key Findings)
 
-1. **O Custo Oculto do Retrabalho: A análise revelou que o ROI global da fábrica estava a ser severamente impactado por custos não mapeados de retrabalho em etapas específicas da produção.
-2. **Mapeamento de Gargalos Críticos: Foi possível isolar os materiais específicos que concentravam a maior incidência de falhas, permitindo à engenharia de produção focar ações corretivas direcionadas.
-3. **Correlação Complexidade vs. Tempo: O modelo estatístico comprovou a correlação direta entre a complexidade dos pedidos e o tempo de ocupação da linha de produção, viabilizando um planeamento de procura (S&OP) muito mais preciso.
+1. **O Custo Oculto do Retrabalho:** A análise revelou que o ROI global da fábrica estava a ser severamente impactado por custos não mapeados de retrabalho em etapas específicas da produção.
+2. **Mapeamento de Gargalos Críticos:** Foi possível isolar os materiais específicos que concentravam a maior incidência de falhas, permitindo à engenharia de produção focar ações corretivas direcionadas.
+3. **Correlação Complexidade vs. Tempo:** O modelo estatístico comprovou a correlação direta entre a complexidade dos pedidos e o tempo de ocupação da linha de produção, viabilizando um planeamento de procura (S&OP) muito mais preciso.
 
 ## 📁 Estrutura do Repositório
 ```text
